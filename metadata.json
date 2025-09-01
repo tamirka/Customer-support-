@@ -1,0 +1,5 @@
+{
+  "name": "Talkbase: AI Call Center",
+  "description": "An AI-powered call center system for inbound customer service and outbound sales calls, designed for high volume and ultra-low latency.",
+  "requestFramePermissions": []
+}
